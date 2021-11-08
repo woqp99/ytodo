@@ -18,7 +18,7 @@ class AddTodo extends Component {
                 <div class="add todo_text">
                     <input class="todo-text" type="text" name="todo" placeholder="Todo"></input>
 
-                    <input type="submit" class="todo-submit" value="추가" ></input>
+                    <input type="submit" class="todo-submit" value="추가++" ></input>
                 </div>
             </form>
 
