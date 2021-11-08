@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ytodo/static/css/main.5cfd2286.chunk.css",
+    "main.css": "/ytodo/static/css/main.d393d62a.chunk.css",
     "main.js": "/ytodo/static/js/main.8e4da2fc.chunk.js",
     "main.js.map": "/ytodo/static/js/main.8e4da2fc.chunk.js.map",
     "runtime-main.js": "/ytodo/static/js/runtime-main.8dc171de.js",
@@ -8,13 +8,13 @@
     "static/js/2.2df1e10e.chunk.js": "/ytodo/static/js/2.2df1e10e.chunk.js",
     "static/js/2.2df1e10e.chunk.js.map": "/ytodo/static/js/2.2df1e10e.chunk.js.map",
     "index.html": "/ytodo/index.html",
-    "static/css/main.5cfd2286.chunk.css.map": "/ytodo/static/css/main.5cfd2286.chunk.css.map",
+    "static/css/main.d393d62a.chunk.css.map": "/ytodo/static/css/main.d393d62a.chunk.css.map",
     "static/js/2.2df1e10e.chunk.js.LICENSE.txt": "/ytodo/static/js/2.2df1e10e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8dc171de.js",
     "static/js/2.2df1e10e.chunk.js",
-    "static/css/main.5cfd2286.chunk.css",
+    "static/css/main.d393d62a.chunk.css",
     "static/js/main.8e4da2fc.chunk.js"
   ]
 }
